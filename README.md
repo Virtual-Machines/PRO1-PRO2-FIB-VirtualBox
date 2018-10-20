@@ -11,3 +11,4 @@ alias p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -st
 - Only included Helloworld C++ source file and compiler execution example because you must solve Jutge.org list problems by yourself (I know it's hard at the beginning but you will learn).
 - Compile and run example: p1++ helloworld.cc -o helloworld.x && ./helloworld.x
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+[PRO1PRO2](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/blob/master/PRO1PRO2.png)
