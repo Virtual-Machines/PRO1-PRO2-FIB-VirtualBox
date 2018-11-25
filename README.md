@@ -1,7 +1,7 @@
 # PRO1 PRO2 FIB VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/releases/download/latest/P1P2FIB.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
-- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Kate and Konsole properly configured
 - Doxygen, the documentation generator. Use "doxygen -g" to create a DoxyFile
 - C++ programming language through g++ compiler with p1 and p2 flags (p1++ and p2++ alias included on bashrc):
