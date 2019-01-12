@@ -13,6 +13,7 @@ alias p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -st
 - Chromium browser with Jutge.org, PRO1 and PRO2 websites bookmarks
 - Only included Helloworld C++ source file and compiler execution example because you must solve Jutge.org list problems by yourself (I know it's hard at the beginning but you will learn).
 - Compile and run example: p1++ helloworld.cc -o helloworld.x && ./helloworld.x
+- User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
