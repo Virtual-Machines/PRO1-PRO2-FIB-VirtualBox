@@ -20,4 +20,4 @@ alias p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -st
 
 **GALLERY**
 
-![PRO1PRO2](https://raw.githubusercontent.com/PRO1-PRO2-FIB-VirtualBox/blob/master/PRO1PRO2.png)
+![PRO1PRO2](https://raw.githubusercontent.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/master/PRO1PRO2.png)
