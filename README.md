@@ -1,6 +1,6 @@
 # PRO1 PRO2 FIB UPC VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/releases/download/latest/P1P2FIB.ova) - [VIDEO](https://www.youtube.com/watch?v=F_EHtmjNEYY)
 
-[**Your OPINION is important**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link) - Last update: 2019-07-28
+[**Your OPINION is important**](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/issues/1) - Last update: 2019-07-28
 
 ![PRO1PRO2](https://raw.githubusercontent.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/master/PRO1PRO2.png)
 
@@ -21,4 +21,4 @@ alias p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -st
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**OPINION**](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/issues/1)
