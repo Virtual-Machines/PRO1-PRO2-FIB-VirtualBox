@@ -1,11 +1,11 @@
 # PRO1 PRO2 FIB UPC VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/releases/download/latest/P1P2FIB.ova) - [VIDEO](https://www.youtube.com/watch?v=F_EHtmjNEYY)
 
-[**Your OPINION is important**](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/issues/1) - Last update: 2019-07-28
+[**Your OPINION is important**](https://github.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/issues/1) - Last update: 2019-12-28
 
 ![PRO1PRO2](https://raw.githubusercontent.com/Virtual-Machines/PRO1-PRO2-FIB-VirtualBox/master/PRO1PRO2.png)
 
-- Minimal Lubuntu 18.04.2 as a lightweight base
-- Linux Kernel 4.18 HWE (Hardware Enablement)
+- Minimal Lubuntu 18.04.3 as a lightweight base
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Kate and Konsole properly configured
 - Doxygen, the documentation generator. Use "doxygen -g" to create a DoxyFile
