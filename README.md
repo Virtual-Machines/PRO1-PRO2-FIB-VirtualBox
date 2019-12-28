@@ -7,7 +7,7 @@
 - Minimal Lubuntu 18.04.3 as a lightweight base
 - Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
-- Kate and Konsole properly configured
+- Kate and Konsole updated and properly configured
 - Doxygen, the documentation generator. Use "doxygen -g" to create a DoxyFile
 - C++ programming language through g++ compiler with p1 and p2 flags (p1++ and p2++ alias included on bashrc):
 
